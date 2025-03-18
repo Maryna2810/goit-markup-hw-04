@@ -460,3 +460,8 @@ body {
 .media-icons:focus {
   background-color: #31d0aa;
 }
+
+.icon-about-us-social {
+  display: flex;
+  gap: 16px;
+}
