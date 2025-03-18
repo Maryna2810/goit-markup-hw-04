@@ -313,8 +313,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 24px;
   padding-top: 8px;
+  gap: 24px;
 }
 
 .social-icons {
