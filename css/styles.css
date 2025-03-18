@@ -159,7 +159,6 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-
   max-width: 496px;
   justify-content: space-between;
   display: flex;
@@ -309,6 +308,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 24px;
+  padding-top: 8px;
 }
 
 .social-icons {
@@ -362,6 +362,11 @@ body {
   border: 1px solid #e7e9fc;
 
   border-top: none;
+}
+
+.icon-about:hover,
+.icon-about:focus {
+  background-color: #404bbf;
 }
 
 .portfolio-item {
@@ -435,4 +440,9 @@ body {
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
+}
+
+.media-icons:hover,
+.media-icons:focus {
+  background-color: #31d0aa;
 }
